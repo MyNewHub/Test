@@ -1,4 +1,4 @@
 Test
 ====
 
-Testing GitHub
+This is testing Github with command line
